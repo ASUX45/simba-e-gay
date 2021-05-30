@@ -1,0 +1,26 @@
+{
+  "name": "discord-selfbot",
+  "version": "1.0.0",
+  "description": "Discord.js sy selfbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2ksyrus/SY-SELFBOT.git"
+  },
+  "author": "$Y#8300",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2ksyrus/SY-SELFBOT/issues"
+  },
+  "homepage": "https://github.com/2ksyrus/SY-SELFBOT/blob/master/README.md",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^3.0.0",
+    "discord.js": "^11.6.4",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.1"
+  }
+}
